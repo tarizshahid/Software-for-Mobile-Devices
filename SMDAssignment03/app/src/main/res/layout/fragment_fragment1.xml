@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment1">
+
+
+
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="Tariz Shahid"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="50dp"
+        />
+    <TextView
+        android:layout_below="@+id/txt2"
+        android:id="@+id/txt3"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="Arham Irfan"
+        android:layout_marginBottom="15dp"/>
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt3"
+        android:text="Rao Ahsan"
+        android:layout_marginBottom="15dp"/>
+    <TextView
+        android:layout_below="@+id/txt4"
+        android:id="@+id/txt5"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="Muzamil javed"
+        android:layout_marginBottom="15dp"/>
+    <TextView
+        android:layout_below="@+id/txt5"
+        android:id="@+id/txt6"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="Shabrez"
+        android:layout_marginBottom="15dp"/>
+
+
+</RelativeLayout>

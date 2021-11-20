@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SMDAssignment02</string>
+    <string name="bachelors_of_computer_science">Bachelors of Computer Science</string>
+    <string name="_18f_0263">18F-0263</string>
+    <string name="tariz_shahid">Tariz Shahid</string>
+    <string name="_2018">2018</string>
+
+    <string name="navigation_drawer_open">
+        Open navigation Drawer
+    </string>
+    <string name="navigation_drawer_close">
+        Close navigation Drawer
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
