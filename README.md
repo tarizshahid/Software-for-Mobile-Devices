@@ -7,4 +7,4 @@ Assignment02 Extended version of Assignemnt 01
 
 Assignment 03 Simple Navigation and Courses
 
-Assignment 04 weather APP
+Assignment 04 Fetch Weather via API
